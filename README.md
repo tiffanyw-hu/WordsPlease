@@ -24,10 +24,11 @@ Words Please is a sentence forming app that children with speech difficulties wh
      foreign_key: :finisher_id,
      class_name: :Finisher
    end
-   ```js
+   ```
 
   + Audio
     + After forming a sentence, the child will be coached by their therapist or aide to finish the sentence. After tapping the sentence, an audio voice will voice the sentence for the student to repeat after. This is to reinforce speech.
+
   ```js
   <TouchableOpacity
     onPress={()=> {
@@ -41,7 +42,7 @@ Words Please is a sentence forming app that children with speech difficulties wh
 
     {activeSet[1]}
   </View>
-  ```js
+  ```
 
 ### Challenges
 One of the challenges was working together for the first time as this was the first time we all worked together in a group. We divided the project into several steps and components and made each person responsible for a specific portion. However, when there were disagreements, it would be difficult to communicate as an issue for one would cause an issue for another. We often came together to work out problems when an issue rose.
