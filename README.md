@@ -1,7 +1,7 @@
 # README
 [Words Please](https://wordsplease.github.io/words-please-tutorial/)
 
-Words Please is a sentence forming app that children with speech difficulties whose age ranges from 3 to 6 will be able to use on their iOS device in conjunction with their speech therapist or AIDE. Each phrase comes with text-to-audio to reinforce speech.
+Words Please is a sentence forming app that children with speech difficulties whose age ranges from 3 to 6 will be able to use on their iOS device in conjunction with their speech therapist or AIDE. Each phrase comes with text-to-audio to reinforce speech. Built with a react native & redux frontend and rails backend.
 
 ## Key Features
 
